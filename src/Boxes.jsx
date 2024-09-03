@@ -6,8 +6,8 @@ export default function Boxes() {
     <div className="flex justify-between mx-40 mt-10">
       <div className="relative flex items-center p-2 rounded-lg shadow-lg w-96 bg-bg-1">
         <div className="absolute flex pb-8 w-82">
-          <div  className="w-40 mb-16 bg-cover h-60 bg-img1" />
-          <div className="absolute ml-40 text-lg font-medium mt-14 text-col-4">Starting from 100 INR</div>
+          <div  className="h-48 mb-6 bg-cover w-28 bg-img1" />
+          <div className="absolute mt-4 ml-40 text-lg font-medium text-col-4">Starting from 100 INR</div>
         </div>
         <div className="ml-44">
           
