@@ -23,7 +23,7 @@ export default {
       },
       backgroundImage: {
         'logo': "url('monkey.png')",
-        'body':"url(body.png)",
+        'body':"url(Body.png)",
         'img1':"url(image-1.png)",
         'img2':"url(image-2.png)",
         'img3':"url(image-3.png)",
